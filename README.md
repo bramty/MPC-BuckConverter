@@ -6,14 +6,14 @@ An off-board charger has two main parts: a rectifier that converts AC voltage fr
 This project simulates MPC control for a DC-DC buck converter to assess its robustness when disturbances in input voltage and load resistance occur.
 
 ## Diagram
-* DC-DC Buck Converter
-![image](https://github.com/user-attachments/assets/a184cd38-1835-4e25-9f6d-26b27611d559)![image](https://github.com/user-attachments/assets/2312beae-e6f2-4150-bcae-9d05f733b4f2)
+* **DC-DC Buck Converter**
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/cde3f106-38d5-4141-9201-2eaf8b6dbf64">
 
-*  Model Predictive Controller(MPC)
+*  **Model Predictive Controller(MPC)**
 ![image](https://github.com/user-attachments/assets/5d003506-6f9a-4967-a492-ee2d6a882a4d)
 ![image](https://github.com/user-attachments/assets/6a784a29-e0dd-4a58-96e8-60ec732ac8ae)
 
-*  Simulink MPC DC-DC Converter Model
+*  **Simulink MPC DC-DC Converter Model**
 ![image](https://github.com/user-attachments/assets/128f934c-05bd-46b0-813a-d2e4de37f120)
 
 ## Project Structure
